@@ -3,3 +3,6 @@ This line should be committed , locally first. Then remotely.
 We can commit locally in the gui, with the commit bottom on the bottom of the panel describing the file.
 
 But it can only be committed when we add at least a summary.
+
+
+And with the reverted line removed. Push it up to the server.
