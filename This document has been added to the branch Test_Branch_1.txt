@@ -3,5 +3,3 @@ This line should be committed , locally first. Then remotely.
 We can commit locally in the gui, with the commit bottom on the bottom of the panel describing the file.
 
 But it can only be committed when we add at least a summary.
-
-Now I want to roll back. Keep this comment, commit the next locally, then revert it.
